@@ -78,3 +78,13 @@ transition: .3s ease all;
     color:black;
 }
 
+.botao i{
+    margin-right: 8px ;
+}
+
+.container{
+    margin-left: 30px;
+}
+.filme-principal .container{
+    width:  40%;
+}
