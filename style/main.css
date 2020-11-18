@@ -116,5 +116,14 @@ header nav a:hover {
     margin-top: 5px;
 }
 
+.titulo{
+    
+    font-size: 40px;
+    font-family: Arial;
+    padding:  10px;
+    margin-left: 20px;
+ 
+    margin-bottom: 8px;
+}
 
 
