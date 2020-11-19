@@ -1,6 +1,6 @@
 
  # :computer:  NETFLIX CLONE
-####  Layout do Projeto Concluído
+######  Layout do Projeto Concluído
 ![Pagina Inicial Instagram](https://github.com/Doni-zete/Netflix-Clone/blob/master/img/matriz_gif.gif)
 
 ## :rocket: Sobre o desafio
