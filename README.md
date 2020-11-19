@@ -1,7 +1,7 @@
 
- # :computer:NETFLIX CLONE
+ # :computer: NETFLIX CLONE
 ######  Layout do Projeto Concluído
-![Pagina Inicial Instagram](https://github.com/Doni-zete/Netflix-Clone/blob/master/img/Layout.png)
+![Pagina Inicial Instagram](https://github.com/Doni-zete/Netflix-Clone/blob/master/img/matriz_gif.gif)
 
 Sobre o desafio
 Desafio feito no Bootcamp de HTML Web Developer, que consiste na recriação do layout da pagina do NetFlix, envolvendo o conteúdo estudado durante o Bootcamp.
