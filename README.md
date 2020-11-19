@@ -14,10 +14,11 @@ Desafio feito no Bootcamp de HTML Web Developer, que consiste na recriação do 
 * CSS3;
 * JavaScript
 
-arrow_double_down Como baixar o projeto
+:arrow_down: **Como baixar o projeto**
+
 OBS: É necessário ter o git instalado em sua máquina
 Executar o Seguinte comando no seu Terminal ou no CMD:
-        git clone https://github.com/stanislawiaw2018/projeto-netflix-clone-Digital-Innovation-One.git
+        'git clone https://github.com/stanislawiaw2018/projeto-netflix-clone-Digital-Innovation-One.git'
         
         
         
