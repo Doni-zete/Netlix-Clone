@@ -18,7 +18,7 @@ Desafio feito no Bootcamp de HTML Web Developer, que consiste na recriação do 
 
 * OBS: É necessário ter o git instalado em sua máquina
 * Executar o Seguinte comando no seu **Terminal**  ou no **CMD**:
-        'git clone https://github.com/stanislawiaw2018/projeto-netflix-clone-Digital-Innovation-One.git'
+        `git clone https://github.com/stanislawiaw2018/projeto-netflix-clone-Digital-Innovation-One.git`
         
         
         
