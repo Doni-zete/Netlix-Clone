@@ -1,6 +1,6 @@
 
- # NETFLIX CLONE
-## Layout do Projeto Concluído
+:computer: # NETFLIX CLONE
+######  Layout do Projeto Concluído
 ![Pagina Inicial Instagram](https://github.com/Doni-zete/Netflix-Clone/blob/master/img/Layout.png)
 
 Sobre o desafio
