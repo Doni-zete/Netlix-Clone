@@ -5,7 +5,7 @@
 
 ## :rocket: Sobre o desafio
 
-Desafio feito no Bootcamp de HTML Web Developer, que consiste na recriação do layout da pagina do NetFlix, envolvendo o conteúdo estudado durante o Bootcamp.
+Desafio feito no Bootcamp de HTML Web Developer, da Digital Inovagion One que consiste na recriação do layout da pagina do NetFlix, envolvendo o conteúdo estudado durante o Bootcamp.
 
  Nesse projeto foi visto como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação, entre outros contéudos.
 
@@ -23,7 +23,7 @@ Desafio feito no Bootcamp de HTML Web Developer, que consiste na recriação do 
         
         
         
-        ![Pagina Inicial Instagram](https://github.com/Doni-zete/Recriando-Pagina-inicial-do-Instagram/blob/main/Pagina%20inicial%20do%20Instagram.gif)
+      
 
-### Link para acessar a copia https://doni-zete.github.io/Recriando-Pagina-inicial-do-Instagram/
+### Link para acessar a copia https://doni-zete.github.io/Recriando-Pagina-inicial-do-Instagram
 
