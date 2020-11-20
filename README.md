@@ -25,5 +25,5 @@ Desafio feito no Bootcamp de HTML Web Developer, da Digital Inovagion One que co
         
       
 
-### Link para acessar a copia https://doni-zete.github.io/Recriando-Pagina-inicial-do-Instagram
+### Link para acessar a copia https://doni-zete.github.io/Netflix-Clone/
 
