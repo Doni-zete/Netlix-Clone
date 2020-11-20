@@ -19,11 +19,11 @@ Desafio feito no Bootcamp de HTML Web Developer, da Digital Inovagion One que co
 * OBS: É necessário ter o git instalado em sua máquina
 * Executar o Seguinte comando no seu **Terminal**  ou no **CMD**:
 
-  ### `git clone https://github.com/stanislawiaw2018/projeto-netflix-clone-Digital-Innovation-One.git`
+  ## `git clone https://github.com/stanislawiaw2018/projeto-netflix-clone-Digital-Innovation-One.git`
         
         
         
       
 
-### Link para acessar a copia https://doni-zete.github.io/Netflix-Clone/
+   ### Link para acessar a copia https://doni-zete.github.io/Netflix-Clone/
 
