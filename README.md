@@ -25,5 +25,5 @@ Desafio feito no Bootcamp de HTML Web Developer, da [Digital Innovation One](htt
         
       
 
-   ### Link para acessar a copia https://doni-zete.github.io/Netflix-Clone/
+   ### Link para acessar a copia https://doni-zete.github.io/Netlix-Clone/
 
